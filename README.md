@@ -18,7 +18,7 @@ You can specify a dataset as follows:
 
 `python train.py --dataset DBLP`
 
-There are three datasets (NIPS, DBLP, and Twitter) in this repository.
+There are three datasets (`NIPS`, `DBLP`, and `Twitter`) in this repository.
 
 ## Paper
 The latest version is available on [SIAM Publications Libarary](https://epubs.siam.org/doi/abs/10.1137/1.9781611977172.6).
